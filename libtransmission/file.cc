@@ -65,4 +65,3 @@ std::vector<std::string> tr_sys_dir_get_files(std::string const& folder, std::fu
         }
     }
 }
-
